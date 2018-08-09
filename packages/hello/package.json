@@ -1,11 +1,11 @@
 {
-  "name": "@aliisright/hello-test-pack",
-  "version": "1.0.2",
+  "name": "hello-test-pack-zozozo",
+  "version": "1.0.3",
   "description": "",
   "main": "./index.js",
   "license": "MIT",
   "dependencies": {
     "react": "^16.3.1"
   },
-  "gitHead": "84b90b86bcd36602a1a8b090d72f64fd1915945f"
+  "gitHead": "0036b9d56e59dc755ecc3fb70c71633131b7450c"
 }
