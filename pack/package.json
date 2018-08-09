@@ -1,0 +1,10 @@
+{
+  "name": "inventory-front",
+  "version": "1.0.0",
+  "description": "Front of the publisher inventory application",
+  "main": "index.jsx",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.3.1",
+  }
+}
